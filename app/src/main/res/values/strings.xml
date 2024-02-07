@@ -1,0 +1,68 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="PrivateResource">Coinz</string>
+    <string name="access_token">pk.eyJ1Ijoia3VnaGFuciIsImEiOiJjam43aHZrYTAxajlvM2tydTJ3YmNlbGJoIn0.y5-bSwk1u3LaCbcLNjhGdA</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="textview">TextView</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="profile">Profile</string>
+    <string name="go_to_map">Go to Map</string>
+    <string name="gold_in_bank">Gold in bank</string>
+    <string name="dolr">DOLR</string>
+    <string name="peny">PENY</string>
+    <string name="shil">SHIL</string>
+    <string name="quid">QUID</string>
+    <string name="quid_balance">quid_balance</string>
+    <string name="shil_balance">shil_balance</string>
+    <string name="dolr_balance">dolr_balance</string>
+    <string name="peny_balance">peny_balance</string>
+    <string name="wallet">Wallet</string>
+    <string name="bankbalance">bankBalance</string>
+    <string name="username">username</string>
+    <string name="collect_coin">Collect Coin</string>
+    <string name="deposit">Bank/SpareChange</string>
+    <string name="dolr_deposit">dolr_deposit</string>
+    <string name="shil_deposit">shil_deposit</string>
+    <string name="quid_deposit">quid_deposit</string>
+    <string name="peny_deposit">peny_deposit</string>
+    <string name="shil_deposit_hint">SHIL Deposit/Transfer</string>
+    <string name="quid_deposit_hint">QUID Deposit/Transfer</string>
+    <string name="peny_deposit_hint">PENY Deposit/Transfer</string>
+    <string name="dolr_deposit_hint">DOLR Deposit/Transfer</string>
+    <string name="numbers">1234567890</string>
+
+    <string name="title_activity_loading_screen">Coinz</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="loading">LOADING…</string>
+    <string name="recievers_user_id">Reciever\'s E-mail</string>
+    <string name="transfer">Transfer</string>
+    <string name="user_id">user_id</string>
+    <string name="colour_theme_text">Pick a colour theme!</string>
+    <string name="greenTheme">Green</string>
+    <string name="darkTheme">Dark</string>
+    <string name="deposit_transfer_guide_text">Deposits most recently collected coin from wallet, coins you bank after you have deposited 25 coins go into spare change, transfers work from most recent coin in spare change</string>
+    <string name="achievementsPage">Achievements</string>
+    <string name="defaultTheme">Default</string>
+    <string name="steps_walked">Steps Walked</string>
+    <string name="coins_deposited_today">Coins deposited today</string>
+
+    <string name="getting_coins">Getting coins</string>
+    <string name="retrieving_data">Retrieving user data…</string>
+    <string name="my_location_button_description">Sets camera to users location</string>
+    <string name="exchange_rates">Exchange Rates</string>
+</resources>
